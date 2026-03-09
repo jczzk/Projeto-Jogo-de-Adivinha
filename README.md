@@ -1,3 +1,5 @@
+# Jogo de Adivinhação em C 
+
 Exibição do Menu:
 Usamos printf para exibir o menu principal com três opções: Iniciar jogo, Ver regras e Sair.
 Usamos scanf para ler a escolha do usuário e armazená-la na variável opcao.
